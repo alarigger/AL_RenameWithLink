@@ -75,6 +75,8 @@ function AL_renameWithLink(){
 						short_name+=str[i];
 						
 					}
+					
+			short_name+="-";
 			
 			for(var j = cutout ; j > 0; j--){
 				
